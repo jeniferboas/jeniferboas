@@ -20,3 +20,6 @@ Apaixonada por tecnologia e por transformar ideias em código.
 ### 📊 Um pouco sobre mim:
 - 🔭 Atualmente trabalhando no meu **Portfólio Pessoal** e em projetos com **React**.
 - 🌱 Aprendendo cada vez mais sobre **Engenharia de Software** e **Clean Code**.
+- 
+- ### 🎓 Certificações
+[<img src="https://www.skills.google/public_profiles/b8a755c5-7b9e-4fa6-a33f-6c6440ef1b09/badges/6083762" />]
